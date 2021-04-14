@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pito126
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .lua .css .html
+- 🌱 I’m currently learning .lua .css .html .js .py
 - 📫 How to reach me Pito126#4606
 
 <!---
